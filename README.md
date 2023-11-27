@@ -46,7 +46,7 @@
 # Menghapus Data (Delete)
 ![aba12](https://github.com/muhammadzidanfadilah/Lab8_php/assets/115553474/0904e900-642a-40d9-a427-92460b0a70d4)
 
-![aba19](https://github.com/muhammadzidanfadilah/Lab8_php/assets/115553474/edfa972e-6d86-4ad8-a987-2859e0633757)
+![aba19](https://github.com/muhammadzidanfadilah/Lab8_php/assets/115553474/90bebcd5-07b3-4a17-bdd5-0abc3f167833)
 
 
 
